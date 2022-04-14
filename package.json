@@ -1,0 +1,33 @@
+{
+  "name": "@longbeard/vite-config",
+  "version": "0.0.5",
+  "description": "Vite config defaults",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongbeardCreative/vite-config.git"
+  },
+  "keywords": [
+    "vite"
+  ],
+  "author": "Kevin Ang <kevin@longbeard.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LongbeardCreative/vite-config/issues"
+  },
+  "homepage": "https://github.com/LongbeardCreative/vite-config#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "typescript": "^4.6.3",
+    "vite": "^2.9.5",
+    "vite-plugin-live-reload": "^2.1.0"
+  },
+  "peerDependencies": {
+    "vite": "^2.9.5",
+    "vite-plugin-live-reload": "^2.1.0"
+  }
+}
