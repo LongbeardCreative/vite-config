@@ -48,7 +48,7 @@ const config = (root: string) => {
     ],
 
     // config
-    root,
+    root: scriptsRoot,
     base: process.env.APP_ENV === "development" ? "/" : "/dist/",
 
     build: {
