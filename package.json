@@ -1,6 +1,6 @@
 {
   "name": "@longbeard/vite-config",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Vite config defaults",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/LongbeardCreative/vite-config#readme",
   "devDependencies": {
-    "@types/node": "^17.0.24",
-    "typescript": "^4.6.3",
-    "vite": "^2.9.5",
-    "vite-plugin-live-reload": "^2.1.0"
+    "@types/node": "^18.7.13",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.9",
+    "vite-plugin-live-reload": "^3.0.0"
   },
   "peerDependencies": {
-    "vite": "^2.9.5",
-    "vite-plugin-live-reload": "^2.1.0"
+    "vite": "^3.0.9",
+    "vite-plugin-live-reload": "^3.0.0"
   }
 }
