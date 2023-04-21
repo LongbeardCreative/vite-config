@@ -1,6 +1,6 @@
 {
   "name": "@longbeard/vite-config",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Vite config defaults",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
