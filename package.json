@@ -27,7 +27,7 @@
     "vite-plugin-live-reload": "^3.0.0"
   },
   "peerDependencies": {
-    "vite": "^3.0.9",
-    "vite-plugin-live-reload": "^3.0.0"
+    "vite": ">=3.0.9",
+    "vite-plugin-live-reload": ">=3.0.0"
   }
 }
